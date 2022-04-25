@@ -2,10 +2,14 @@
 Adobe XD-Design for Furniture Store Website 
 
 This Furniture Website Consists of four pages:
-First: Home Page
-Second: About Page
-Thrid: Page for specific Product
-Fourth: Description Details for a specific Product
+
+-First: Home Page
+
+-Second: About Page
+
+-Thrid: Page for specific Product
+
+-Fourth: Description Details for a specific Product
 
 Created a Home Page that has Navbar to navigate to another pages like (About us page, Shop Page, Login Page).
 
